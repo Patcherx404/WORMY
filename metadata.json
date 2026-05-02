@@ -1,0 +1,10 @@
+{
+  "name": "Wormy.io",
+  "description": "A vibrant, addictive multiplayer snake game with smooth movement and colorful visuals. Grow your worm by eating treats and outmaneuver other players to dominate the leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "multiplayer",
+    "real-time",
+    "canvas-gaming"
+  ]
+}
